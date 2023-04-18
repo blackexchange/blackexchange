@@ -16,7 +16,7 @@ I'm an
    </p>
 
 ---
-### 🧰 Language
+### 👨🏾‍💻 Language
 
 <img align = "left"  src="https://cdn.svgporn.com/logos/python.svg" width="30px" style="padding-right:10px;" />
 <img align = "left"  src="https://cdn.svgporn.com/logos/java.svg" width="30px" style="padding-right:10px;" />
@@ -33,14 +33,15 @@ I'm an
 <img align = "left"  src="https://cdn.svgporn.com/logos/angular-icon.svg" width="30px" style="padding-right:10px;" />
 <br/>
 
-### 🧰 Banco de dados:
+### 🔬 Banco de dados:
 
 <img align = "left"  src="https://cdn.svgporn.com/logos/mysql.svg" width="30px" style="padding-right:10px;" />
 <img align = "left"  src="https://cdn.svgporn.com/logos/postgresql.svg" width="30px" style="padding-right:10px;" />
 <img align = "left"  src="https://cdn.svgporn.com/logos/mongodb.svg" width="30px" style="padding-right:10px;" />
 <br/>
 
-### 🧰 Language :
+
+### ⚙️ Language :
 
 <img align = "left"  src="https://cdn.svgporn.com/logos/git-icon.svg" width="30px" style="padding-right:10px;" />
 <img align = "left"  src="https://cdn.svgporn.com/logos/docker-icon.svg" width="30px" style="padding-right:10px;" />
